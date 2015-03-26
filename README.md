@@ -1,0 +1,2 @@
+# Codibility
+Codibility Exercise Solutions
